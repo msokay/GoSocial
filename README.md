@@ -4,7 +4,8 @@
 
 GoSocial is a web-based social platform designed to democratize the ancient game of Weiqi (Go). It combines bite-sized, gamified learning with daily turn-based engagement to help new Western players break into the game and build a daily habit.
 
-![GoSocial Concept](https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?q=80&w=2670&auto=format&fit=crop) *(Placeholder Image)*
+![Uploading image.png…]()
+
 
 ## 🚀 Features
 
